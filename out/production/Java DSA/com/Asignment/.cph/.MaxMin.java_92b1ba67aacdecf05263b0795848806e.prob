@@ -1,0 +1,1 @@
+{"name":"Local: MaxMin","url":"c:\\Users\\Admin\\Java DSA\\Function\\com\\Asignment\\MaxMin.java","tests":[{"id":1630242769449,"input":"3\n1 4 0\n16 0 8\n14 15 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Java DSA\\Function\\com\\Asignment\\MaxMin.java","group":"local","local":true}

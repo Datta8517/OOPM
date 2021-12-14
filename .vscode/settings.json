@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "college/com",
+        "String",
+        "Recursion",
+        "Practice/com/Basics",
+        "Interview Que/com",
+        "Function/com/Asignment",
+        "College_Pract",
+        "Array",
+        ""
+    ],
+    "java.dependency.packagePresentation": "hierarchical"
+}

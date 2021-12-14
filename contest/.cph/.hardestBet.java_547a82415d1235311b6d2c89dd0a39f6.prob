@@ -1,0 +1,1 @@
+{"name":"Local: hardestBet","url":"c:\\Users\\Admin\\Java DSA\\contest\\hardestBet.java","tests":[{"id":1630235563066,"input":"3\n1 4 4\n16 8 10\n14 15 9","output":"Draw\nBob\nAlice"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Java DSA\\contest\\hardestBet.java","group":"local","local":true}

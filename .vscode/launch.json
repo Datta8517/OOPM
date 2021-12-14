@@ -1,0 +1,546 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ATM",
+            "request": "launch",
+            "mainClass": "Project.com.P1.ATM",
+            "projectName": "Java DSA_5fff4ad9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Basics",
+            "request": "launch",
+            "mainClass": "Basics",
+            "projectName": "Java DSA_5fff4ad9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Root",
+            "request": "launch",
+            "mainClass": "com.BinarySearch.Root",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch SqrtRoot",
+            "request": "launch",
+            "mainClass": "com.BinarySearch.SqrtRoot",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.BinarySearch.Main",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch SquareRoot",
+            "request": "launch",
+            "mainClass": "com.BinarySearch.SquareRoot",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch SquareRoot",
+            "request": "launch",
+            "mainClass": "com.BinarySearch.com.SquareRoot",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sqrt_num",
+            "request": "launch",
+            "mainClass": "BinarySearch.Easy.Sqrt_num",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sqrt_num",
+            "request": "launch",
+            "mainClass": "BinarySearch.com.Easy.Sqrt_num",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch sqrt_num",
+            "request": "launch",
+            "mainClass": "BinarySearch.Easy.com.BinarySearch.Easy.com.sqrt_num",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch sqrt_num",
+            "request": "launch",
+            "mainClass": "BinarySearch.Easy.com.sqrt_num",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch Subse_str",
+            "request": "launch",
+            "mainClass": "Subse_str",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rectangle",
+            "request": "launch",
+            "mainClass": "Rectangle",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch sum",
+            "request": "launch",
+            "mainClass": "com.Basics.sum",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch AsciiVal",
+            "request": "launch",
+            "mainClass": "com.AsciiVal",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern",
+            "request": "launch",
+            "mainClass": "com.pattern",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bs",
+            "request": "launch",
+            "mainClass": "Basics.Bs",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibo",
+            "request": "launch",
+            "mainClass": "Basics.Fibo",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch Basic",
+            "request": "launch",
+            "mainClass": "Basics.Basic",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch Basics",
+            "request": "launch",
+            "mainClass": "Basics.Basics",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch N_unique_sumUpto0",
+            "request": "launch",
+            "mainClass": "com.LeetCode.N_unique_sumUpto0",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrTarget",
+            "request": "launch",
+            "mainClass": "com.LeetCode.ArrTarget",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch Palindrome",
+            "request": "launch",
+            "mainClass": "Question.Palindrome",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch Methods",
+            "request": "launch",
+            "mainClass": "Methods",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch StrBuilder",
+            "request": "launch",
+            "mainClass": "StrBuilder",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch operators",
+            "request": "launch",
+            "mainClass": "operators",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrettyPrinting",
+            "request": "launch",
+            "mainClass": "PrettyPrinting",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch Basics",
+            "request": "launch",
+            "mainClass": "Basics",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch PairOfNum",
+            "request": "launch",
+            "mainClass": "com.Assignment.PairOfNum",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch KidsWithExtraCandie",
+            "request": "launch",
+            "mainClass": "com.Assignment.KidsWithExtraCandie",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrShuffle",
+            "request": "launch",
+            "mainClass": "com.Assignment.ArrShuffle",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfRunningDay",
+            "request": "launch",
+            "mainClass": "com.Assignment.SumOfRunningDay",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumOfRunningDay",
+            "request": "launch",
+            "mainClass": "com.LeetCode.sumOfRunningDay",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch SmallestPosMissingNum",
+            "request": "launch",
+            "mainClass": "com.LeetCode.SmallestPosMissingNum",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindAllDupli",
+            "request": "launch",
+            "mainClass": "com.LeetCode.FindAllDupli",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch findDuplicate",
+            "request": "launch",
+            "mainClass": "com.LeetCode.findDuplicate",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch AllMissedElemInArr",
+            "request": "launch",
+            "mainClass": "com.LeetCode.AllMissedElemInArr",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch OneMissingElem",
+            "request": "launch",
+            "mainClass": "com.LeetCode.OneMissingElem",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch MissingElem",
+            "request": "launch",
+            "mainClass": "com.LeetCode.MissingElem",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cyclic_Sort",
+            "request": "launch",
+            "mainClass": "com.sorting.Cyclic_Sort",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxMin",
+            "request": "launch",
+            "mainClass": "MaxMin",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch Insertion_Sort",
+            "request": "launch",
+            "mainClass": "com.sorting.Insertion_Sort",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch Selection_sort_M2",
+            "request": "launch",
+            "mainClass": "com.sorting.Selection_sort_M2",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch Selection_Sort",
+            "request": "launch",
+            "mainClass": "com.sorting.Selection_Sort",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bubble_sort",
+            "request": "launch",
+            "mainClass": "com.sorting.Bubble_sort",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch DuplicateBS",
+            "request": "launch",
+            "mainClass": "DuplicateBS",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch RotationCount",
+            "request": "launch",
+            "mainClass": "RotationCount",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch RotationalBS",
+            "request": "launch",
+            "mainClass": "RotationalBS",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch Targget_in_PeakOfMountain",
+            "request": "launch",
+            "mainClass": "Targget_in_PeakOfMountain",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CeilingOfNumArr",
+            "request": "launch",
+            "mainClass": "CeilingOfNumArr",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstAndLast_Pos",
+            "request": "launch",
+            "mainClass": "FirstAndLast_Pos",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch FloorNum_binarySearch",
+            "request": "launch",
+            "mainClass": "FloorNum_binarySearch",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch InfiniteArrSearch",
+            "request": "launch",
+            "mainClass": "InfiniteArrSearch",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch Integer_print",
+            "request": "launch",
+            "mainClass": "Integer_print",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch PeakOfMountain",
+            "request": "launch",
+            "mainClass": "PeakOfMountain",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch Primitives",
+            "request": "launch",
+            "mainClass": "Primitives",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sentence_print",
+            "request": "launch",
+            "mainClass": "Sentence_print",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxValue",
+            "request": "launch",
+            "mainClass": "com.Assignment.MaxValue",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reverse",
+            "request": "launch",
+            "mainClass": "com.Assignment.Reverse",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchIn2DArray",
+            "request": "launch",
+            "mainClass": "com.Assignment.SearchIn2DArray",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwapIndex",
+            "request": "launch",
+            "mainClass": "com.Assignment.SwapIndex",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array",
+            "request": "launch",
+            "mainClass": "com.Basics.Array",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array2D",
+            "request": "launch",
+            "mainClass": "com.Basics.Array2D",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListEx",
+            "request": "launch",
+            "mainClass": "com.Basics.ArrayListEx",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "com.Basics.BinarySearch",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinearNumSearch",
+            "request": "launch",
+            "mainClass": "com.Basics.LinearNumSearch",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinearStrSearch",
+            "request": "launch",
+            "mainClass": "com.Basics.LinearStrSearch",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mutability",
+            "request": "launch",
+            "mainClass": "com.Basics.Mutability",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch OrderAccousticBS",
+            "request": "launch",
+            "mainClass": "com.Basics.OrderAccousticBS",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayPermutation",
+            "request": "launch",
+            "mainClass": "com.LeetCode.ArrayPermutation",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConcatanationArr",
+            "request": "launch",
+            "mainClass": "com.LeetCode.ConcatanationArr",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch EvenDigit",
+            "request": "launch",
+            "mainClass": "com.LeetCode.EvenDigit",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch RichestCustWealth",
+            "request": "launch",
+            "mainClass": "com.LeetCode.RichestCustWealth",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch input",
+            "request": "launch",
+            "mainClass": "input",
+            "projectName": "Java DSA_bcc90353"
+        },
+        {
+            "type": "java",
+            "name": "Launch sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "Java DSA_bcc90353"
+        }
+    ]
+}
